@@ -14,6 +14,13 @@
     "category": "Tools"
   },
   {
+    "name": "KatanaS Tool",
+    "version_info": "",
+    "notes": ["Working with clickers", "Use at your own risk"],
+    "download_link": "https://www.mediafire.com/file/fzkswm766mu35dz/Katana_SS_Tool.zip/file",
+    "category": "VVV"
+  },
+  {
     "name": "Prestige Self Destructor",
     "version_info": "",
     "notes": ["Working with forge mods"],
