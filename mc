@@ -10,7 +10,7 @@
     "name": "3arthh4ck",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://mimhax.netlify.app/Files/3arthh4ck.jar",
+    "download_link": "https://mimhax.xyz/Files/3arthh4ck-1.8.5-release.jar",
     "category": "Anarchy"
   },
   {
@@ -122,9 +122,11 @@
   },
   {
     "name": "Air Client",
-    "version_info": "High risk",
-    "notes": [],
-    "download_link": "https://cdn.discordapp.com/attachments/1160274406128484403/1181187679648489482/airclient-1.2.jar?ex=658025c0&is=656db0c0&hm=d34ecc28179ffc6787fcf8f42a180806c9ef11342503d7ce38289675b8630656&",
+    "version_info": "1.6",
+    "notes": [
+      "Risky"
+    ],
+    "download_link": "https://workupload.com/file/VtNzqAbWCjW",
     "category": "Blatant"
   },
   {
@@ -231,7 +233,7 @@
     "name": "Aristois",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://gitlab.com/Aristois/Installer/builds/artifacts/master/raw/packager/Aristois-Free.jar?job=build",
+    "download_link": "https://aristois.net/",
     "category": "Anarchy"
   },
   {
@@ -336,7 +338,7 @@
     "name": "Augustus",
     "version_info": "Free 2.6",
     "notes": [],
-    "download_link": "https://qiwi.gg/file/2RcMi0g8Pig81WTyTmwEmxHChiy-317395-Augustus",
+    "download_link": "https://workupload.com/file/dfkgdgKvUy4",
     "category": "Blatant"
   },
   {
@@ -597,7 +599,7 @@
     "name": "Boze",
     "version_info": "1.19+",
     "notes": [],
-    "download_link": "https://github.com/PlutoSolutions/Boze",
+    "download_link": "https://crystalpvp.ru/boze/",
     "category": "Blatant"
   },
   {
@@ -625,7 +627,7 @@
     "name": "Breeze",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA ",
+    "download_link": "https://wonderland.ac/api/download.php?type=cb&folder=Breeze&file=Breeze-Forge.jar",
     "category": "Blatant"
   },
   {
@@ -884,7 +886,7 @@
     "name": "Cyrus Client",
     "version_info": "b2.3.6",
     "notes": [],
-    "download_link": "https://workupload.com/file/KWLqZqNcEfB",
+    "download_link": "https://www.mediafire.com/file/zj5gooxd5lptfjx/Cyrus.jar/file",
     "category": "Blatant"
   },
   {
@@ -979,17 +981,10 @@
     "category": "Blatant"
   },
   {
-    "name": "Dope Client",
-    "version_info": "V1",
-    "notes": [],
-    "download_link": "https://www.mediafire.com/file/22evfi1yvyaormy/Dope.zip/file",
-    "category": "Ghost"
-  },
-  {
-    "name": "Dope V2",
+    "name": "Dope V1 + V2",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/22evfi1yvyaormy/Dope.zip/file",
+    "download_link": "https://mega.nz/file/nY4WxZSC#zLq11wCMlJJW_SHS2ktky5ML82emiQjXpUrXWkY5FUk",
     "category": "Ghost"
   },
   {
@@ -1010,7 +1005,7 @@
     "name": "Dortware Source",
     "version_info": "1.5.0",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/m0nskl3vg6algd6/Dortware+1.5.0.zip/file",
+    "download_link": "https://wonderland.ac/api/download.php?type=cs&file=Dortware%201.5.0.zip",
     "category": "Others"
   },
   {
@@ -1022,9 +1017,9 @@
   },
   {
     "name": "Dream Client",
-    "version_info": "v4.6 + v4.8",
+    "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/ufktd90e503p7cb/drim.zip/file",
+    "download_link": "https://mega.nz/file/rdA3QD7S#sMIFNwy66fo7BXDdT-EuBVn0jY8RZW2ZHhjtwws_Z38",
     "category": "Ghost"
   },
   {
@@ -1045,7 +1040,7 @@
     "name": "Dropsy",
     "version_info": "v0.4.4",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/6qedg0d2q9aej3l/Dropsy.zip/file",
+    "download_link": "https://mega.nz/file/2Eg2QahY#Y1i--M5Nlt2w4y-oR7_I6j99WZv0H1OQSn1r7Hco7sc",
     "category": "Ghost"
   },
   {
@@ -1087,7 +1082,7 @@
     "name": "Dusk",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://e.pcloud.link/publink/show?code=XZpXouZR28OMEJM2P4vEga03PAdbBCaaEW7",
+    "download_link": "https://mimhax.xyz/Files/duskclicker.exe",
     "category": "Clicker"
   },
   {
@@ -1182,7 +1177,7 @@
     "notes": [
       "Use at your own risk"
     ],
-    "download_link": "https://mega.nz/file/iNZFHZKC#vC75RbcuG9VfXDq4b4NG6uW8GTjEyKuemDshklCwJK8",
+    "download_link": "https://www.mediafire.com/file/u0csu0zuvxfyzkz/Entropy.zip/file",
     "category": "Ghost"
   },
   {
@@ -1709,7 +1704,7 @@
     "name": "Haru",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/ef6c2igfjjslodt/Haru.rar/file",
+    "download_link": "https://www.mediafire.com/file/ef6c2igfjjslodt/Haru_%2528version%2529.rar/file",
     "category": "Ghost"
   },
   {
@@ -1723,7 +1718,7 @@
     "name": "Hash",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://github.com/PlutoSolutions/Hash",
+    "download_link": "https://crystalpvp.ru/hash",
     "category": "Ghost"
   },
   {
@@ -1923,7 +1918,7 @@
     "notes": [
       "Use at your own risk"
     ],
-    "download_link": "https://www.mediafire.com/file/pao7e8ovi57hoy7/Juul.zip/file ",
+    "download_link": "https://www.mediafire.com/file/wkp0j3k4kahq6ym/Juul_2.7_%2528Fixed%2529.zip/file",
     "category": "Ghost"
   },
   {
@@ -2098,7 +2093,7 @@
     "name": "Leaked Ryu Client",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/uuq9x6msh60m9y4/Ryu.zip/file",
+    "download_link": "https://wonderland.ac/api/download.php?type=cb&folder=Ryu&file=Ryu+Leak.jar",
     "category": "Others"
   },
   {
@@ -2137,13 +2132,6 @@
     "category": "Clicker"
   },
   {
-    "name": "Lime",
-    "version_info": "unknown",
-    "notes": [],
-    "download_link": "https://mimhax.netlify.app/Files/Lime.zip",
-    "category": "Blatant"
-  },
-  {
     "name": "Lime Client Source",
     "version_info": "unknown",
     "notes": [],
@@ -2151,10 +2139,10 @@
     "category": "Others"
   },
   {
-    "name": "Lime Reborn",
+    "name": "Lime + Lime Client Reborn",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://cdn.discordapp.com/attachments/1129999297857990660/1169887601445052436/Lime-reborn.zip?ex=655709bb&is=654494bb&hm=d3d786081e19bc5fd3b50eec0e77218a97c50457db68bdb15a7f97adc211b6c1&",
+    "download_link": "https://www.mediafire.com/file/2lx45b32s4ijx40/Lime.zip/file",
     "category": "Blatant"
   },
   {
@@ -2217,7 +2205,7 @@
     "name": "LiquidDrip",
     "version_info": "Old",
     "notes": [],
-    "download_link": "https://cdn.discordapp.com/attachments/1129699151018459240/1145928684641980427/h534evV.jar",
+    "download_link": "https://www.mediafire.com/file/37hvfi4l42au06a/Liquiddrip_10013.jar/file",
     "category": "Blatant"
   },
   {
@@ -2343,7 +2331,7 @@
     "name": "Magenta",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://lol.hovac.fun/archive/jelte/files/magenta.jar",
+    "download_link": "https://www.mediafire.com/file/ksm847aq5zfpp5f/Magenta.jar/file",
     "category": "Ghost"
   },
   {
@@ -2385,7 +2373,7 @@
     "name": "Merge",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://lol.hovac.fun/download.html?dl=aHR0cHM6Ly9ob3ZhYy5mdW4vZGwvTWVyZ2Uuemlw",
+    "download_link": "https://www.mediafire.com/file/p7zzp3mz4065fnz/Merge.jar/file",
     "category": "Ghost"
   },
   {
@@ -2413,7 +2401,7 @@
     "name": "MinusBounce",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://minusbounce.lol/download/",
+    "download_link": "https://github.com/longathelstan/MinusBounce-DevBuild/",
     "category": "Blatant"
   },
   {
@@ -2711,7 +2699,7 @@
     "name": "NullClient",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://git.disroot.org/CatsPnewed/Forkbounce.Archive/media/branch/main/LavaBounce/lavabounce-b11%281%29.jar",
+    "download_link": "https://www.mediafire.com/file/kayhe8r328b1w7f/null_client_b24_cracked_by_%E8%96%9B%E5%AE%9D%E9%92%97.jar/file",
     "category": "Blatant"
   },
   {
@@ -2755,7 +2743,7 @@
     "name": "Opal",
     "version_info": "Update 12/01/25",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/ufcnic3h8ac1krq/Opal+011225+Cracked.zip/file",
+    "download_link": "https://workupload.com/file/4ZFbvz4DFZL",
     "category": "Blatant"
   },
   {
@@ -2983,7 +2971,7 @@
     "name": "Raven A",
     "version_info": "Massive skids",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/wpkz0deg2fya7tb/Raven_A.jar/file",
+    "download_link": "https://www.mediafire.com/file/qckik1lnuu6c08q/Raven_A%252B.jar/file",
     "category": "Ghost"
   },
   {
@@ -3004,21 +2992,21 @@
     "name": "Raven B++ Reborn",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/lv608191s2468nj/Raven_B%2B%2B_Reborn.jar/file",
+    "download_link": "https://wonderland.ac/api/download.php?type=cb&folder=Raven+B%2B%2B+Reborn&file=Raven+B%2B%2B+Reborn.jar",
     "category": "Ghost"
   },
   {
     "name": "Raven B+++",
     "version_info": "Update 09/09/2023",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/cx70t5q8hjobkqv/Raven_B%2B.jar/file",
+    "download_link": "https://wonderland.ac/api/genlink.php?type=cb&folder=Raven%20B%2B%2B%2B",
     "category": "Ghost"
   },
   {
     "name": "Raven B-",
     "version_info": "Update 04/12/2023",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/j53hm9kovrmme2c/Raven_B-.jar/file",
+    "download_link": "https://wonderland.ac/api/download.php?type=cb&folder=Raven+B-+Latest&file=RavenB-+Latest.jar",
     "category": "Ghost"
   },
   {
@@ -3064,7 +3052,7 @@
     "name": "Raven BFun",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/sgrqdqzvo8fwo8a/Raven_BFun.jar/file",
+    "download_link": "https://www.mediafire.com/file/nso5c4em3cxaqvx/Raven_BFun.jar/file",
     "category": "Ghost"
   },
   {
@@ -3094,7 +3082,7 @@
     "notes": [
       "Haven't check yet"
     ],
-    "download_link": "https://www.mediafire.com/file/wmxupgesrkhjra4/Raven_N%2B.jar/file",
+    "download_link": "https://wonderland.ac/api/genlink.php?type=cb&folder=Raven%20N%2B",
     "category": "Ghost"
   },
   {
@@ -3131,7 +3119,7 @@
     "name": "Raven XD",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://github.com/xia-mc/Raven-XD",
+    "download_link": "https://github.com/Raven-APlus/Raven-XD-archived",
     "category": "Ghost"
   },
   {
@@ -3250,7 +3238,7 @@
     "name": "Rise 5.100 r3",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/x21chdm1gtqe7yd/r1.zip/file",
+    "download_link": "https://www.mediafire.com/file/9oosyzi0ckf8jgo/Rise_v5.100.zip/file",
     "category": "Blatant"
   },
   {
@@ -3456,7 +3444,7 @@
   },
   {
     "name": "Rise Olds",
-    "version_info": "4.0 -\u003E 5.100",
+    "version_info": "4.0 -> 5.100",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/hpuchwhi96wmcgh/Old.zip/file",
     "category": "Blatant"
@@ -3493,7 +3481,7 @@
     "name": "SalHack",
     "version_info": "1.9+",
     "notes": [],
-    "download_link": "https://cdn.discordapp.com/attachments/1187569667779342367/1187569705507115109/SalHack.zip?ex=65975d79&is=6584e879&hm=861c57691bc720a20db3d3b2d83e4e107f35eb6768a3d5c517fdd2b56bcfa726&",
+    "download_link": "https://github.com/CrytoPal/Continued-Salhack",
     "category": "Blatant"
   },
   {
@@ -3507,7 +3495,7 @@
     "name": "Sapphire",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://e.pcloud.link/publink/show?code=XZWYhuZMj5Sd2MFvELUK3UCKjiY402oA22X",
+    "download_link": "https://www.mediafire.com/file/xblmwwwzt0hd6a2/Sapphire.jar/file",
     "category": "Clicker"
   },
   {
@@ -3575,7 +3563,7 @@
   },
   {
     "name": "Sigma",
-    "version_info": "Oldest -\u003E Latest",
+    "version_info": "Oldest -> Latest",
     "notes": [],
     "download_link": "https://sites.google.com/view/nezha-anticheat/sigma-archive",
     "category": "Blatant"
@@ -3957,14 +3945,14 @@
     "notes": [
       "Config save-able"
     ],
-    "download_link": "https://drive.google.com/file/d/1c2xEF4-zDOYz9J_IAugSl1wTLrRtd9Sy/view?usp=sharing",
+    "download_link": "https://vape.johnxina.space/",
     "category": "Ghost"
   },
   {
     "name": "Vape Client",
     "version_info": "v4.16",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/gmqxo47zf0y431a/[old][1.8.9][Lunar]+vape-v4.16-cracked-120624.zip/file",
+    "download_link": "https://mega.nz/file/XUA33AwA#ai7p3habRBzAOysCB_jCvmtuh7s0Cac_7nmcVkVen9k",
     "category": "Ghost"
   },
   {
@@ -3997,13 +3985,6 @@
     "version_info": "Lite",
     "notes": [],
     "download_link": "https://pixeldrain.com/u/SEJqHpBz",
-    "category": "Ghost"
-  },
-  {
-    "name": "Vape Client",
-    "version_info": "v3.29",
-    "notes": [],
-    "download_link": "https://www.mediafire.com/file/27z6nurgw1u457n/3.29+Crack.zip/file",
     "category": "Ghost"
   },
   {
@@ -4066,7 +4047,7 @@
     "name": "Vea",
     "version_info": "unknown",
     "notes": [],
-    "download_link": "https://lol.hovac.fun/archive/jelte/files/vea.jar",
+    "download_link": "https://www.mediafire.com/file/6hxmp3n6ofr2cfs/Vea.jar/file",
     "category": "Ghost"
   },
   {
@@ -4269,7 +4250,7 @@
     "name": "Whiteout",
     "version_info": "Working",
     "notes": [],
-    "download_link": "https://www.mediafire.com/file/fny7xzarjh8n415/Whiteout_V3.zip/file",
+    "download_link": "https://www.mediafire.com/file/9di8vslja8k6c5a/Whiteout+Lunar+Fix.zip/file",
     "category": "Ghost"
   },
   {
@@ -4411,5 +4392,165 @@
     "notes": [],
     "download_link": "https://github.com/jeopardization/Zyklon",
     "category": "Ghost"
+  },
+  {
+    "name": "Augustus",
+    "version_info": "b4.20.3",
+    "notes": [],
+    "download_link": "https://www.mediafire.com/file/hy0s32n09q4qki7/Augustus+launcher.zip/file",
+    "category": "Blatant"
+  },
+  {
+    "name": "Boze Client Source",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://github.com/TwoNick/boze",
+    "category": "Others"
+  },
+  {
+    "name": "Cheeto Sigma",
+    "version_info": "6.9",
+    "notes": [],
+    "download_link": "https://workupload.com/file/NjbRpHpNvyQ",
+    "category": "Blatant"
+  },
+  {
+    "name": "Haru Lite",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://www.mediafire.com/file/mowr4wtkxpkgk2g/Haru_Lite.jar/file",
+    "category": "Ghost"
+  },
+  {
+    "name": "Monoxide",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://www.mediafire.com/file/9zke6y7jexl7vjh/Monoxide.jar/file",
+    "category": "Ghost"
+  },
+  {
+    "name": "Vape Client",
+    "version_info": "v4.18",
+    "notes": [
+      "Register required on vape.johnxina.space"
+    ],
+    "download_link": "https://workupload.com/file/peVTN9zrKyK",
+    "category": "Ghost"
+  },
+  {
+    "name": "Stormy Rewrite",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://www.mediafire.com/file/l4pxkxjnrcgj7w9/Stormy_Rewrite.jar/file",
+    "category": "Ghost"
+  },
+  {
+    "name": "Huzuni",
+    "version_info": "For minecraft 1.10.2",
+    "notes": [],
+    "download_link": "https://workupload.com/file/NR8dL4x3pYm",
+    "category": "Blatant"
+  },
+  {
+    "name": "Huzuni",
+    "version_info": "For minecraft 1.11.2",
+    "notes": [],
+    "download_link": "https://workupload.com/file/efQ2eH5Awbv",
+    "category": "Blatant"
+  },
+  {
+    "name": "Huzuni",
+    "version_info": "For minecraft 1.5.2",
+    "notes": [],
+    "download_link": "https://workupload.com/file/v62sKZczr8e",
+    "category": "Blatant"
+  },
+  {
+    "name": "Huzuni",
+    "version_info": "VIP 3.5",
+    "notes": [],
+    "download_link": "https://workupload.com/file/v62sKZczr8e",
+    "category": "Blatant"
+  },
+  {
+    "name": "Huzuni",
+    "version_info": "unknown b1",
+    "notes": [],
+    "download_link": "https://workupload.com/file/PAGTCgRRvUQ",
+    "category": "Blatant"
+  },
+  {
+    "name": "Air Client",
+    "version_info": "1.0.0",
+    "notes": [
+      "Risky"
+    ],
+    "download_link": "https://workupload.com/file/e3FtVb3CLFy",
+    "category": "Blatant"
+  },
+  {
+    "name": "Air Client",
+    "version_info": "1.2",
+    "notes": [
+      "Risky"
+    ],
+    "download_link": "https://workupload.com/file/JAeR5xtXLPU",
+    "category": "Blatant"
+  },
+  {
+    "name": "Apinity",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://workupload.com/file/T7xnCKzC3WH",
+    "category": "Blatant"
+  },
+  {
+    "name": "Arc",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://workupload.com/file/CPAyHWAGPFP",
+    "category": "Blatant"
+  },
+  {
+    "name": "Aljami",
+    "version_info": "0.2",
+    "notes": [],
+    "download_link": "https://workupload.com/file/a8JYz4UXQyg",
+    "category": "Blatant"
+  },
+  {
+    "name": "Amusement",
+    "version_info": "b2",
+    "notes": [],
+    "download_link": "https://workupload.com/file/vbzEfbpWYwU",
+    "category": "Blatant"
+  },
+  {
+    "name": "Alien",
+    "version_info": "12.0",
+    "notes": [],
+    "download_link": "https://workupload.com/file/w736en5vLX9",
+    "category": "Blatant"
+  },
+  {
+    "name": "Alien",
+    "version_info": "7.0",
+    "notes": [],
+    "download_link": "https://workupload.com/file/jPzn2U9fYmd",
+    "category": "Blatant"
+  },
+  {
+    "name": "Ambient",
+    "version_info": "3.0",
+    "notes": [],
+    "download_link": "https://workupload.com/file/SKUtRWseJk8",
+    "category": "Blatant"
+  },
+  {
+    "name": "Aero",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://workupload.com/file/dErBwh2TcbL",
+    "category": "Blatant"
   }
 ]
