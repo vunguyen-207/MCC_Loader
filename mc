@@ -3270,8 +3270,8 @@
     "category": "Others"
   },
   {
-    "name": "Rise 6.0.13",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.13",
     "notes": [
       "Buggy"
     ],
@@ -3279,8 +3279,8 @@
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.17",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.17",
     "notes": [
       "Buggy ASF"
     ],
@@ -3288,8 +3288,8 @@
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.18",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.18",
     "notes": [
       "Patched"
     ],
@@ -3297,8 +3297,8 @@
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.20",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.20",
     "notes": [
       "Patched"
     ],
@@ -3306,57 +3306,57 @@
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.22",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.22",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/8hokbdxmnfvguwz/Rise+6.0.22+beta.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.22 Beta 3",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.22 Beta 3",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/onb9hyaoahur49y/Rise+6.0.22+beta3.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.23",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.23",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/okh4kvkiia7gkpv/Rise_6.0.24_beta.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.24",
-    "version_info": "Old",
+    "name": "Rise",
+    "version_info": "6.0.24 old",
     "notes": [],
     "download_link": "https://mega.nz/file/gnJkzBSa#SKCmxOD7D38Mg9M53EN0_phpDP7Or2spzZD35XFOhCg",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.24",
-    "version_info": "17.11.2023 Update",
+    "name": "Rise",
+    "version_info": "6.0.24 17.11.2023 Update",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/h0zziy20vyziyb9/Rise+6.0.24+beta7.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.24",
-    "version_info": "2.12.2023 Update",
+    "name": "Rise",
+    "version_info": "6.0.24 2.12.2023 Update",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/mdajk6z2a8uzjfz/Riseaeoi.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.24",
-    "version_info": "17.12.2023 Update",
+    "name": "Rise",
+    "version_info": "6.0.24 17.12.2023 Update",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/3vha0v82xac2apm/RiseCompressed.jar/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.7",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.7",
     "notes": [
       "Crash (Patched?)"
     ],
@@ -3364,78 +3364,78 @@
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.0.9",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.0.9",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/cd3bl142w5xycad/Risee.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.1",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.1",
     "notes": [],
     "download_link": "https://www.masterof13fps.com/forum/threads/rise-cracked-by-qreaj.8954/",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.1.25",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.1.25",
     "notes": [],
     "download_link": "https://workupload.com/start/tEH4ZYGhPPq",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.1.25 Deobfuscated",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.1.25 Deobfuscated",
     "notes": [],
     "download_link": "https://www.masterof13fps.com/forum/threads/rise-6-1-25-beta-deobfuscated.8975/",
     "category": "Others"
   },
   {
-    "name": "Rise 6.1.29",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.1.29",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/fchdc2cjlfdjcy2/Rise+v6.rar/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.1.30",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.1.30",
     "notes": [],
     "download_link": "https://mega.nz/file/UHVmgJra#SnSzvami3soQnZaTm4hfBswQNtL8BnTcGAGKVi1W028",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.1.30",
-    "version_info": "1.6.2024 Update",
+    "name": "Rise",
+    "version_info": "6.1.30 1.6.2024 Update",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/2bfnhb4kmrgdn3a/Rise+v6.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.1.30",
-    "version_info": "1.6.2024 Update",
+    "name": "Rise",
+    "version_info": "6.1.30 1.6.2024 Update",
     "notes": [],
     "download_link": "https://www.mediafire.com/file/2bfnhb4kmrgdn3a/Rise+v6.zip/file",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.2.4",
-    "version_info": "unknown",
+    "name": "Rise",
+    "version_info": "6.2.4",
     "notes": [],
-    "download_link": "https://workupload.com/file/pkX2PPv7dB5 ",
+    "download_link": "https://workupload.com/file/pkX2PPv7dB5",
     "category": "Blatant"
   },
   {
-    "name": "Rise 6.2.4 DEV's Source",
+    "name": "Rise Client's Source",
     "version_info": "6.2.4",
     "notes": [],
     "download_link": "https://drive.google.com/file/d/1Ov5r2uUWV0LICUZHWsjrVfdlDcl4JjUC/view?usp=sharing",
     "category": "Others"
   },
   {
-    "name": "Rise 6.5.2",
-    "version_info": "6.2.4",
+    "name": "Rise",
+    "version_info": "6.5.2",
     "notes": [
       "use at ur own risk"
     ],
@@ -4552,5 +4552,119 @@
     "notes": [],
     "download_link": "https://workupload.com/file/dErBwh2TcbL",
     "category": "Blatant"
+  },
+  {
+    "name": "Dream Advanced Source",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://github.com/ImLegiitXD/Dream-Advanced",
+    "category": "Others"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.4.3",
+    "notes": [],
+    "download_link": "https://drive.google.com/file/d/1bK0JpNYWK6OlhGttC3womHD7T_leY7Rb/view?usp=sharing",
+    "category": "Blatant"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.4.6",
+    "notes": [],
+    "download_link": "https://drive.google.com/file/d/1rEdZf8HoV2P2DgHu5osEAmvJQ8Di15sR/view?usp=sharing",
+    "category": "Blatant"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.5.3",
+    "notes": [],
+    "download_link": "https://drive.google.com/file/d/1fNiHPGgDZzVso7hS0jIwMbZaN0BwfXSJ/view?usp=sharing",
+    "category": "Blatant"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.5.4",
+    "notes": [],
+    "download_link": "https://drive.google.com/file/d/1lsfIdJ0RPX7Gilc11VETBe4z5BR7ZqgF/view?usp=sharing",
+    "category": "Blatant"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.6.5",
+    "notes": [],
+    "download_link": "https://drive.google.com/file/d/1_wU0nKw7_E21-bmk61SEJ7O3ayoZNIQz/view?usp=sharing",
+    "category": "Blatant"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.6.7",
+    "notes": [],
+    "download_link": "https://workupload.com/file/Uqq7Py8Bqx4",
+    "category": "Blatant"
+  },
+  {
+    "name": "Rise",
+    "version_info": "6.6.9",
+    "notes": [],
+    "download_link": "https://oncp.pg109.ovh/rise/6.6.9/6.6.9.zip",
+    "category": "Blatant"
+  },
+  {
+    "name": "OpenMyau",
+    "version_info": "250910",
+    "notes": [],
+    "download_link": "https://github.com/60124808866/OpenMyau",
+    "category": "Blatant"
+  },
+  {
+    "name": "Mio",
+    "version_info": "2.2.1-patch3",
+    "notes": [
+      "1.9+"
+    ],
+    "download_link": "https://github.com/TwoNick/mio",
+    "category": "Blatant"
+  },
+  {
+    "name": "Renacity",
+    "version_info": "unknown version",
+    "notes": [],
+    "download_link": "https://workupload.com/file/vGCTEaMhQeL",
+    "category": "Blatant"
+  },
+  {
+    "name": "Renacity Source",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://codeberg.org/RealPacket/Renacity",
+    "category": "Others"
+  },
+  {
+    "name": "Gothaj",
+    "version_info": "3.01b",
+    "notes": [],
+    "download_link": "https://workupload.com/file/heY96prDWK3",
+    "category": "Blatant"
+  },
+  {
+    "name": "Vanadium",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://github.com/TwoNick/vanadium",
+    "category": "Blatant"
+  },
+  {
+    "name": "Grim Client",
+    "version_info": "unknown",
+    "notes": [],
+    "download_link": "https://github.com/TwoNick/grim",
+    "category": "Blatant"
+  },
+  {
+    "name": "Myau Client Source",
+    "version_info": "250910",
+    "notes": [],
+    "download_link": "https://github.com/60124808866/OpenMyau/blob/main/",
+    "category": "Others"
   }
 ]
